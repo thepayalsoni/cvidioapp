@@ -1,4 +1,4 @@
-package com.cvidio.cvidioapp;
+package com.cvido.cvido;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
